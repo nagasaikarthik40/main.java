@@ -1,2 +1,4 @@
 Hi this is my new text file
 i have created it for myself
+
+i have added this new line
